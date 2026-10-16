@@ -1,0 +1,11 @@
+Coloque aqui o arquivo da música (MP3 é o mais compatível), por exemplo:
+  nossa-musica.mp3
+
+Depois, em src/config/site.ts:
+  arquivo: 'audio/nossa-musica.mp3',
+  titulo: 'Nome da música',
+  artista: 'Quem canta',
+
+Use uma música que você tenha direito de usar (comprada, licenciada,
+de uso livre ou gravada por você). Se o site for público, evite
+publicar faixas protegidas por direitos autorais sem licença.
