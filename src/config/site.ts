@@ -47,7 +47,7 @@ export const musica = {
   artista: 'Kiss',
 
   /** Volume inicial, de 0 a 1. */
-  volumeInicial: 0.2,
+  volumeInicial: 0.1,
 
   /**
    * Se `true`, a música começa quando ela tocar em "Entrar no nosso mundinho"
